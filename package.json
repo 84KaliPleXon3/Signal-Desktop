@@ -213,7 +213,7 @@
     "eslint-plugin-mocha": "4.12.1",
     "eslint-plugin-more": "0.3.1",
     "file-loader": "4.2.0",
-    "grunt": "1.0.1",
+    "grunt": "1.5.2",
     "grunt-cli": "1.2.0",
     "grunt-contrib-concat": "1.0.1",
     "grunt-contrib-copy": "1.0.0",

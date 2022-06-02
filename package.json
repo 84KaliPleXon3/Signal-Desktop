@@ -107,7 +107,7 @@
     "p-map": "2.1.0",
     "p-queue": "6.2.1",
     "pify": "3.0.0",
-    "protobufjs": "6.8.6",
+    "protobufjs": "6.11.3",
     "proxy-agent": "3.0.3",
     "qs": "6.5.1",
     "react": "16.8.3",

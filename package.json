@@ -88,7 +88,7 @@
     "fuse.js": "3.4.4",
     "glob": "7.1.6",
     "google-libphonenumber": "3.2.6",
-    "got": "8.2.0",
+    "got": "11.8.5",
     "he": "1.2.0",
     "history": "4.9.0",
     "intl-tel-input": "12.1.15",
